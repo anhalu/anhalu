@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anhalu.dev@gmail.com**
 
-- 📄 My resume is in [Here](https://drive.google.com/file/d/105o3x84nPmIGI9AdQ3hYg65ILyegUq33/view)
+- 📄 My resume is in [Here](https://drive.google.com/file/d/129Z5vVpa24Vxg05jEvVdYPs5LLFsv_-D/view?usp=sharing)
 
 - ⚡ Fun fact **I like the saying of Andrew Ng "Don't worry about it if you don't understand" :3**
 
