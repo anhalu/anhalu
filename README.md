@@ -1,4 +1,3 @@
-
 <h2>About me</h2>
 <img align="right" alt="Coding" width="400" 
 
