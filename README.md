@@ -1,5 +1,4 @@
 <h2>About me</h2>
-<img align="right" alt="Coding" width="400" 
 
 - I’m currently studying **Information Technology at Hanoi University of Industry.**
 
