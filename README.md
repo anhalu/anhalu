@@ -1,4 +1,4 @@
-<h2>What'up ?👋👋👋</h2>
+<h2>What's up ?👋👋👋</h2>
 My name is Hoang Minh An. I work as an AI engineer at <a href=https://sun-asterisk.vn/> Sun Asterisk</a>, a company that offers services in the areas of design, technology, and human resources.
 
 My job is mostly about design and implementation artificial intelligence solutions to solve business problems.
