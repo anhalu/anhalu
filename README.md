@@ -1,23 +1,11 @@
-<h2>About me</h2>
+<h2>What'up ?👋👋👋</h2>
+My name is Hoang Minh An. I work as an AI engineer at <a href=https://sun-asterisk.vn/> Sun Asterisk</a>, a company that offers services in the areas of design, technology, and human resources.
 
-- I’m currently studying **Information Technology at Hanoi University of Industry.**
+My job is mostly about design and implementation artificial intelligence solutions to solve business problems.
 
-- I’m currently learning **Optimization Algorithm, Machine Learning and Deep Learning**
+If you want to connect with me, the best way is usually through <a href="https://www.facebook.com/minhan.halu/" target="blank">Facebook</a> or Email - anhalu.dev@gmail.com
 
-- My work is mostly about **Computer Vision and Optimization Algorithm**
 
-- How to reach me **anhalu.dev@gmail.com**
-
-- ⚡ Fun fact **I like the saying of Andrew Ng "Don't worry about it if you don't understand" :3**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anhalu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoang minh an" height="30" width="40" /></a>
-<a href="https://fb.com/anhalu6602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minh an halu" height="30" width="40" /></a>
-<a href="https://instagram.com/anhalu66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anhalu66" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/whoknows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="whoknows" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anhalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anhalu" height="30" width="40" /></a>
-</p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anhalu&show_icons=true&locale=en" alt="anhalu" /></p>
